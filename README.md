@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linkan Kumar Sahu</h1>
 <h3 align="center">A passionate full stack web developer(skilled in MERN stack,JavaScript and it's framework) from India</h3>
-
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkansahu2020&label=Profile%20views&color=0e75b6&style=flat" alt="linkansahu2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linkansahu2020" alt="linkansahu2020" /></a> </p>
