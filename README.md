@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **linkansahu2020@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qgWZ8mPq6nbjdSbr-QQToFHShqfYJRTm6YcK-afN178/edit?usp=sharing](https://docs.google.com/document/d/1qgWZ8mPq6nbjdSbr-QQToFHShqfYJRTm6YcK-afN178/edit?usp=sharing)
+- 📄 Know about my experiences [here is my Resume](https://docs.google.com/document/d/1qgWZ8mPq6nbjdSbr-QQToFHShqfYJRTm6YcK-afN178/edit?usp=sharing)
 
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
 
