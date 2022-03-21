@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://ashish-portfolio-nu.vercel.app)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://linkan-sahu-portfolio.vercel.app)
 
 - 💬 Ask me about **JavaScript,React,DSA**
 
